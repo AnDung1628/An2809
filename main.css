@@ -37,6 +37,7 @@ body, html{height: 100%;}
 }
 
 .container1{
+  font-size: 22px;
   display: flex;
   justify-content: center;
   width: 100%;
@@ -49,6 +50,7 @@ body, html{height: 100%;}
 }
 
 .container2{
+  font-size: 22px;
   display: flex;
   justify-content: center;
   width: 100%;
